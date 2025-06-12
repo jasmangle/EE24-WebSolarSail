@@ -1,4 +1,4 @@
-import * as THREE from "https://cdn.skypack.dev/three@0.132.2";
+import * as THREE from 'three';
 import { CalculationHandler } from "/js/modules/CalculationHandler.js";
 
 // JPL Horizons definitions (fixed output quantities):

@@ -1,4 +1,4 @@
-import * as THREE from "https://cdn.skypack.dev/three@0.132.2";
+import * as THREE from 'three';
 import { PlanetOrbitController, OrbitController } from "/js/modules/OrbitController.js";
 import { LabelController } from "/js/modules/LabelController.js";
 import { OrbitSubject } from "/js/sceneSubjects/OrbitSubject.js";

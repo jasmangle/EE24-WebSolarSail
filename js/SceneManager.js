@@ -1,6 +1,6 @@
 //import * as THREE from './libs/three.js'
-import * as THREE from "https://cdn.skypack.dev/three@0.132.2";
-import { OrbitControls } from "https://threejs.org/examples/jsm/controls/OrbitControls.js";
+import * as THREE from 'three';
+import { OrbitControls } from "controls";
 import {GeneralLights} from "./sceneSubjects/GeneralLights.js";
 import {SceneSubject, GridSubject} from "./sceneSubjects/SceneSubject.js";
 import {SolarSailSubject} from "./sceneSubjects/SolarSailSubject.js";
